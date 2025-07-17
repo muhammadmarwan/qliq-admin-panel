@@ -98,9 +98,7 @@ For complete API details, refer to the Postman collection:
 
 👨‍💻 Author
 Muhammad Marwan
-📧 Email: marwan@example.com
-🌐 LinkedIn
-💼 Full Stack Developer with 5+ years of experience
+📧 Email: mhdmarwan777@.com
 
 📜 License
 This project is licensed under the MIT License.
