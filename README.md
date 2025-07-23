@@ -101,3 +101,5 @@ Muhammad Marwan
 📧 Email: mhdmarwan777@gmail.com
 
 📜 License
+This project is licensed under the MIT License.
+
