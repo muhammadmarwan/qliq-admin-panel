@@ -98,7 +98,8 @@ For complete API details, refer to the Postman collection:
 
 👨‍💻 Author
 Muhammad Marwan
-📧 Email: mhdmarwan777@.com
+📧 Email: mhdmarwan777@gmail.com
 
 📜 License
 This project is licensed under the MIT License.
+
