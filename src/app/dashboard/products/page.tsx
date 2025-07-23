@@ -145,8 +145,10 @@ export default function ProductsPage() {
       </div>
 
       {loading ? (
-        <div className="text-center text-gray-600">Loading products...</div>
-      ) : (
+      <div className="flex justify-center items-center h-64">
+        <div className="w-12 h-12 border-4 border-blue-500 border-dashed rounded-full animate-spin"></div>
+      </div>
+        ) : (
         <>
           <div className="overflow-x-auto bg-white rounded shadow">
             <table className="min-w-full divide-y divide-gray-200">

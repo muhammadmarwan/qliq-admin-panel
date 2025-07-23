@@ -42,8 +42,10 @@ export default function OrdersPage() {
   return (
     <div className="p-6">
       {loading ? (
-        <div>Loading...</div>
-      ) : orders.length === 0 ? (
+        <div className="flex justify-center items-center h-64">
+          <div className="w-12 h-12 border-4 border-blue-500 border-dashed rounded-full animate-spin"></div>
+        </div>
+        ) : orders.length === 0 ? (
         <div className="text-center text-muted-foreground">No orders found.</div>
       ) : (
         <>
