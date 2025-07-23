@@ -15,7 +15,9 @@ export default function DashboardPage() {
     loadStats();
   }, []);
 
-  if (!stats) return <div className="p-6">Loading...</div>;
+  if (!stats) return   <div className="flex justify-center items-center h-64">
+    <div className="w-12 h-12 border-4 border-blue-500 border-dashed rounded-full animate-spin"></div>
+  </div>;
 
   return (
     <div className="p-6 space-y-6">
